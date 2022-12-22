@@ -1,0 +1,38 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+.p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center; 
+}
+
+textarea{
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+    margin-right: 50%;  
+}
+
+.app{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.button {
+    display: inline-flex;
+    background: #008000 ;
+}
+   
